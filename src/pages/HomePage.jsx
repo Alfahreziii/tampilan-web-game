@@ -1,4 +1,4 @@
-import Button from "../components/button"
+import Button from "../components/Button"
 import { useEffect } from "react";
 
 const HomePage = () => {
