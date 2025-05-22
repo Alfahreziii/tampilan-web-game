@@ -23,7 +23,7 @@ const HomePage = () => {
                         <img src="/images/love.png" alt="icon" className="inline w-16 h-w-16 mx-2" />
                         <br />
                         know your stress !</h1>
-                    <Button />
+                    <Button>Try Now</Button>
                 </div>
             </div>
             <img src="/images/awan2.png" alt="" className="absolute right-0 -bottom-50 -z-20"/>
