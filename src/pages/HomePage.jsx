@@ -66,9 +66,9 @@ const HomePage = () => {
                                     <h1 className="rounded-full text-white font-bold text-lg max-[660px]:text-base z-20">1</h1>
                                 </div>
                             </div>
-                            <h1 className="font-bold text-3xl/8 max-[1300px]:text-xl/6 max-[1180px]:text-3xl/8 max-[700px]:text-xl/6 max-[1500px]:text-2xl/7  max-[550px]:text-3xl/8 text-[#033560]">Prepare your stress ball</h1>
+                            <h1 className="font-bold text-3xl/8 max-[1300px]:text-xl/6 max-[1180px]:text-3xl/8 max-[700px]:text-xl/6 max-[1500px]:text-2xl/7  max-[550px]:text-3xl/8 text-[#033560]">Connect to the app</h1>
                         </div>
-                        <h1 className="text-xl max-[1500px]:text-lg max-[1300px]:text-base max-[1180px]:text-xl max-[700px]:text-base max-[550px]:text-xl text-[#033560] font-medium">Hold your favorite stress ball comfortably in your</h1>
+                        <h1 className="text-xl max-[1500px]:text-lg max-[1300px]:text-base max-[1180px]:text-xl max-[700px]:text-base max-[550px]:text-xl text-[#033560] font-medium">Plug the stress ball into your device</h1>
                     </div>
                 </div>
                 <div className="bg-white rounded-4xl">
@@ -80,9 +80,9 @@ const HomePage = () => {
                                     <h1 className="rounded-full text-white font-bold text-lg max-[660px]:text-base z-20">1</h1>
                                 </div>
                             </div>
-                            <h1 className="font-bold text-3xl/8 max-[1300px]:text-xl/6 max-[1180px]:text-3xl/8 max-[700px]:text-xl/6 max-[1500px]:text-2xl/7  max-[550px]:text-3xl/8 text-[#033560]">Prepare your stress ball</h1>
+                            <h1 className="font-bold text-3xl/8 max-[1300px]:text-xl/6 max-[1180px]:text-3xl/8 max-[700px]:text-xl/6 max-[1500px]:text-2xl/7  max-[550px]:text-3xl/8 text-[#033560]">Play the game!</h1>
                         </div>
-                        <h1 className="text-xl max-[1500px]:text-lg max-[1300px]:text-base max-[1180px]:text-xl max-[700px]:text-base max-[550px]:text-xl text-[#033560] font-medium">Hold your favorite stress ball comfortably in your</h1>
+                        <h1 className="text-xl max-[1500px]:text-lg max-[1300px]:text-base max-[1180px]:text-xl max-[700px]:text-base max-[550px]:text-xl text-[#033560] font-medium">Squeeze the stress ball to controll the character</h1>
                     </div>
                 </div>
                 <div className="bg-white rounded-4xl">
@@ -94,9 +94,9 @@ const HomePage = () => {
                                     <h1 className="rounded-full text-white font-bold text-lg max-[660px]:text-base z-20">1</h1>
                                 </div>
                             </div>
-                            <h1 className="font-bold text-3xl/8 max-[1300px]:text-xl/6 max-[1180px]:text-3xl/8 max-[700px]:text-xl/6 max-[1500px]:text-2xl/7  max-[550px]:text-3xl/8 text-[#033560]">Prepare your stress ball</h1>
+                            <h1 className="font-bold text-3xl/8 max-[1300px]:text-xl/6 max-[1180px]:text-3xl/8 max-[700px]:text-xl/6 max-[1500px]:text-2xl/7  max-[550px]:text-3xl/8 text-[#033560]">Monitor your stress level</h1>
                         </div>
-                        <h1 className="text-xl max-[1500px]:text-lg max-[1300px]:text-base max-[1180px]:text-xl max-[700px]:text-base max-[550px]:text-xl text-[#033560] font-medium">Hold your favorite stress ball comfortably in your</h1>
+                        <h1 className="text-xl max-[1500px]:text-lg max-[1300px]:text-base max-[1180px]:text-xl max-[700px]:text-base max-[550px]:text-xl text-[#033560] font-medium">After playing, see how much you were stressed</h1>
                     </div>
                 </div>
             </div>
